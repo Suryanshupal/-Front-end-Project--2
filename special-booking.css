@@ -1,0 +1,35 @@
+#special-booking{
+    padding: 0%;
+    margin: 0%;
+}
+.student-flight-container{
+    max-width: 300px;
+    max-height: 300px;
+    text-align: center;
+    /* margin-top:30px; */
+    margin-left: 30px;
+}
+.student-image img{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 15px 15px 0 0;
+}
+.student-flight-text{
+    background-color:  #2e0103;
+    color: white;
+    max-width: 300px;
+    padding-bottom: 2px;
+    border-radius: 0 0 15px 15px;
+}
+.student-flight-text h3{
+    font-size: 20px;
+}
+.special-flight-mainbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.second-button{
+    display: flex;
+    justify-content: center;
+}
